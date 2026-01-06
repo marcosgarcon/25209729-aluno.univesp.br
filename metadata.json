@@ -1,0 +1,7 @@
+{
+  "name": "Matriz Ancestral",
+  "description": "Uma aplicação Afrofuturista de arquitetura espiritual e regências divinas baseada na teologia Umbandista.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
